@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "title": "Example Song",
+  "font_size": 28,
+  "scroll_speed_percent": 1.5,
+  "scroll_minutes": 2,
+  "scroll_seconds": 0,
+  "paragraphs": [
+    {
+      "runs": [
+        { "text": "Em", "chord": true, "bold": true, "italic": false },
+        { "text": "              ", "chord": false, "bold": false, "italic": false },
+        { "text": "C", "chord": true, "bold": true, "italic": false }
+      ]
+    },
+    {
+      "runs": [
+        { "text": "Lyrics under the chords here", "chord": false, "bold": false, "italic": false }
+      ]
+    },
+    {
+      "runs": [
+        { "text": "               ", "chord": false, "bold": false, "italic": false },
+        { "text": "G", "chord": true, "bold": true, "italic": false }
+      ]
+    },
+    {
+      "runs": [
+        { "text": "Next lyric line", "chord": false, "bold": false, "italic": false }
+      ]
+    },
+    {
+      "runs": []
+    }
+  ]
+}

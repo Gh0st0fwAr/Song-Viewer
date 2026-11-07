@@ -24,6 +24,8 @@ env/
 
 # Runtime / local
 data/settings.json
+songs/*
+!songs/example.song.json
 *.log
 .DS_Store
 Thumbs.db
