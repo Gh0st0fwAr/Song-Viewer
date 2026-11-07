@@ -1,0 +1,1299 @@
+{
+  "version": 1,
+  "title": "The Sound of Silence",
+  "font_size": 40,
+  "line_height_percent": 100,
+  "scroll_speed_percent": 1.5,
+  "scroll_minutes": 3,
+  "scroll_seconds": 30,
+  "paragraphs": [
+    {
+      "runs": [
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "  ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Мы ждём вас обратно.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "           ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "               ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Никто в одиночестве не рождался.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "  ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Мы ждём вас обратно.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "          ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "             ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Хотя я рискую и не дождаться.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "            ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "  ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Всё это не важно,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "          ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "             ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Ненужные мысли гоните в омут.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Ни холод, ни жажда",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "             ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "                 ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Не смогут сломить нашу тягу к дому.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": [
+        {
+          "text": "          ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Последняя песня помойной птицы,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "          ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "                ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Последнее солнце свинцовых облак.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "               ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "               ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Пусть нашим мечтам никогда не сбыться,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "            ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "                 ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Но каждому должен быть кто-то дорог.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "               ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Мы ждём вас обратно и верим в то, что",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "            ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "             ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Не все оправдания были ложью.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "           ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "               ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "На все извинения скажем: \"ладно,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "            ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "     ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Мы ждём вас обратно\"",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": [
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": [
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "  ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Мы ждём вас обратно.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "             ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "                 ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Вернитесь скорее, без вас тут плохо.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "  ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Мы ждём вас обратно.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "             ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "                 ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Болезненный крик на последнем вдохе.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Уйти безвозвратно",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "             ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "                 ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Навряд ли когда-нибудь кто-то сможет.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "   ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Мы ждём вас обратно.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "             ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "                 ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Хотелось бы верить, что вы нас тоже.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": [
+        {
+          "text": "          ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Последняя песня помойной птицы,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "          ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "               ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Последнее солнце свинцовых облак.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "               ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "               ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Пусть нашим мечтам никогда не сбыться,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "            ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "                 ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Но каждому должен быть кто-то дорог.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "               ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Мы ждём вас обратно и верим в то, что",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "            ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "                ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Не все оправдания были ложью.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "           ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "               ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "На все извинения скажем: \"ладно,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Bm",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "               ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "D",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Мы ждём вас обратно, ждём вас обратно,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "       ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": " ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "F#",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Мы ждём\".",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    }
+  ]
+}

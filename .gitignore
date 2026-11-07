@@ -1,0 +1,30 @@
+# Packaged Windows build
+SV/
+SV.zip
+SV.rar
+SV.7z
+
+# PyInstaller / build junk
+build/
+build_tmp/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Runtime / local
+data/settings.json
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp

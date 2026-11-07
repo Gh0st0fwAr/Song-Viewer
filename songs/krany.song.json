@@ -1,0 +1,878 @@
+{
+  "version": 1,
+  "title": "New Song",
+  "font_size": 40,
+  "line_height_percent": 100,
+  "scroll_speed_percent": 1.5,
+  "scroll_minutes": 3,
+  "scroll_seconds": 10,
+  "paragraphs": [
+    {
+      "runs": [
+        {
+          "text": "E5           G5",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Непобедимые великаны",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "C5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "B5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Из самой прочной на свете стали,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "E5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "           ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Молча уходят со строек краны.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "C5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "B5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Те, что всегда за окном стояли.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": [
+        {
+          "text": "Жёлтого цвета, великой силы,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Рельсы до неба упрямо стелют.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Краны ложатся в свои могилы,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Не доходя до конечной цели.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": [
+        {
+          "text": "Можешь представить как это ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "страшно:",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Тросом сцепившиеся прочно,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Не повернув ни на градус башни, ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Краны уходят сегодня ночью.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": [
+        {
+          "text": "Как объяснить нерождённым только",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Стенам домов на остывших стройках,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Брошенных собственными отцами:",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Краны ушли насовсем, с концами.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": [
+        {
+          "text": "Припев:",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "E5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(VII)           ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(X)",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Люди с утра посмотрели в окна:",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "C5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(VIII)              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "B5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(VII)",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Небо без башен и солнце-блюдце.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "E5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(VII)          ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(X)",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "В новых домах не поставят стёкла.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "C5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(VIII)              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "B5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(VII)",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Вряд ли когда-то они вернутся.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": [
+        {
+          "text": "E5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "           ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Непобедимые великаны",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "C5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "B5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Молча уходят со строек краны.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "E5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "           ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Из самой прочной на свете стали,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "C5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "B5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Те, что всегда за окном стояли.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": [
+        {
+          "text": "Жёлтого цвета, великой силы,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Краны ложатся в свои могилы,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Рельсы до неба упрямо стелют.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Не доходя до конечной цели.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": [
+        {
+          "text": "Можешь представить как это ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "страшно:",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Не повернув ни на градус башни,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Тросом сцепившиеся прочно, ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Краны уходят сегодня ночью.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": [
+        {
+          "text": "Как объяснить нерождённым только",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Стенам домов на остывших стройках,",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Брошенных собственными отцами:",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Краны ушли насовсем, с концами.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": []
+    },
+    {
+      "runs": [
+        {
+          "text": "Припев: х3",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "E5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(VII)           ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(X)",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Люди с утра посмотрели в окна:",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "C5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(VIII)              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "B5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(VII)",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Небо без башен и солнце-блюдце.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "E5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(VII)          ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "G5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(X)",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "В новых домах не поставят стёкла.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "C5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(VIII)              ",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "B5",
+          "chord": true,
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "(VII)",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Вряд ли когда-то они вернутся.",
+          "chord": false,
+          "bold": false,
+          "italic": false
+        }
+      ]
+    }
+  ]
+}
