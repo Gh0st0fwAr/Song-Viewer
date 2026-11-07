@@ -43,10 +43,13 @@ Repository: [Gh0st0fwAr/Song-Viewer](https://github.com/Gh0st0fwAr/Song-Viewer)
 
 ## Windows build (prebuilt)
 
-If you have the packaged build:
+Download the latest Windows package from **Releases**:
 
-1. Open the **`SV`** folder (or unpack **`SV.zip`**)
-2. Run **`SongViewer.exe`**
+**https://github.com/Gh0st0fwAr/Song-Viewer/releases**
+
+1. Grab the release asset (e.g. `SV.zip`)
+2. Unpack it
+3. Run **`SongViewer.exe`**
 
 ---
 
@@ -151,8 +154,10 @@ run.bat          Windows launcher
 song_viewer/     application package
 songs/           saved songs
 data/            settings (created at runtime)
-SV/              optional packaged Windows build (local; not in git)
 ```
+
+Prebuilt Windows binaries are published on the [Releases](https://github.com/Gh0st0fwAr/Song-Viewer/releases) page (not stored in this repository).
+
 
 ## License
 

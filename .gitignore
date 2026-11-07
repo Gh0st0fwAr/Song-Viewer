@@ -4,6 +4,10 @@ SV.zip
 SV.rar
 SV.7z
 
+# Local drafts (not for the repo)
+REDDIT_rBlind_post.md
+images/
+
 # PyInstaller / build junk
 build/
 build_tmp/
